@@ -17,7 +17,7 @@ const titleStyle = {
 
 const Header = () => (
     <header style={headerStyle}>
-        <h1 style={titleStyle}>Food Randomizersssss</h1>
+        <h1 style={titleStyle}>Food Randomizer</h1>
     </header>
 );
 
